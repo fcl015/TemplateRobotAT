@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/botones">
+        <file>var/assets/botones/close.png</file>
+        <file>var/assets/botones/stop.png</file>
+        <file>var/assets/botones/stop.gif</file>
+        <file>var/assets/botones/start.gif</file>
+        <file>var/assets/botones/st.png</file>
+        <file>var/assets/botones/aceptar_mensaje.png</file>
+    </qresource>
+    <qresource prefix="/logos">
+        <file>var/assets/logos/logo_automatische.png</file>
+    </qresource>
+    <qresource prefix="/otros">
+        <file>var/assets/otros/box_mov.gif</file>
+        <file>var/assets/otros/box.gif</file>
+        <file>var/assets/otros/lib_interfaz.gif</file>
+        <file>var/assets/otros/loading_bar.gif</file>
+        <file>var/assets/otros/logo_at.png</file>
+        <file>var/assets/otros/paro.gif</file>
+    </qresource>
+</RCC>
